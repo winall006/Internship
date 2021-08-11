@@ -1,0 +1,33 @@
+# *Day-2*
+
+## *Introduction*
+               Second day of internship was very much exciting as expected.This day belongs to puzzles.We interns grouped together as teams and tried to solve puzzles which are given to us. we were given around four puzzles today.
+
+## *Objective*
+            The objective of giving puzzles to us and making us to solve is to recognise and enhance our problem solving skills.
+
+## *Problem Solving*
+            Problem solving is a skill which is a mandatory stuff to be possesed by the a programmerIn order to solve a problem we need to follow few steps they are as follows 
+                -Understanding the problem and approching it with clarity
+                -Identifing the constraints present in the problem
+                -Listing out all the possible operations
+                -Arranging all the possible operations to form a solution 
+## Puzzle 1
+         On one end of the river bank a farmer have a fox,goose,and a bag of corn with him.all the four needs to be crossed across the river.there is a boat which can carry only two.farmer is the only one who knows to ride a boat.if he leaves fox and goose alone in one end fox might eat up goose if he leaves goose and bag of corn alone goose might eat up corn.so this was the puzzle and our team solved this in matter of time.
+
+## Puzzle 2
+         Second puzzle is about arrangement of numbers from 1 to 35 in which the sum of consecutive numbers should be a perfect square.we as a team solved this together. even though we took some time our team solved this puzzle first.
+
+## Sudoku
+       We were explained about the solving procedures of sudoku puzzle and we got to know about some of the tips while solving a sudoku puzzle. they are as follows
+                - Finding out the most constrained part
+                - Using trail and error method
+                - Breaking down the problem into bits and pieces
+                - Having a strategy for solving the problem
+## Puzzle 4
+       There are totally eight blocks with the numbers 1 to 8 on it.the first row has three blocks and second row has three blocks and third row will be having two rows and a gap.blocks near the gap can move right,left,top,bottom occupying the gap. so in a jumbled set of blocks we need to arrange the blocks in the way that all the blocks should be in ascending order.we as a team solved this together.even though we took some time we completed this within the given stipulated time.
+
+So we had these puzzle and problem solving sessions till evening. then we had a brief session on gitafter five in the evening.
+
+## Git
+       we got brief introduction about git and how it works.we learned logged in to the github website and we created a new account in git hub.then we learned to create a new repository in the git hub.we got know to about few important git commands which used in day to day work.the command git init used to initiate git in the specific folder .the command git add filename is used to add our specfic file . git commit -m "description" used to save our file in local and git push origin HEAD:main is used to push our file in the remote . using all this commands we successfully pushed our essay which was written last day into git.

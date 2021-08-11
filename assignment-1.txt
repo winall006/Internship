@@ -1,0 +1,46 @@
+# *ESSAY - DAY1*
+
+## *INTRODUCTION*
+                 First day of internship was very much interesting as expected and i got to know    about many exciting stuffs
+
+## *SKILLS*
+          Today i got to know very briefly about skills and in more particular about the skills     which are to be acqiured by a programmer. Those skills are as follows 
+                -Reading 
+                -Writing
+                -Mathematical Thinking
+                -Problem solving
+                -Researching
+                -Breaking down problems
+                -Typing
+                -Creativity
+
+## *STAGES OF ADVANCEMENT*
+          There are different stages of advancement in order to become a skilled professional       initially you will a novice and as you learn more and gather skills each day you will move gradully up in your learning curve and finally you will be an expert.The stages of advancement are as follows                -Novice
+                -Advanced beginner
+                -Competent
+                -Proficient
+                -Expert
+
+## *CLI (command line interface)*
+          CLI processes commands to a computer program in the form of text.I got to know few        important commands which are used to interact with the system. The are as follows 
+ 
+                -touch command used to create a file   
+                -ls command used to list all the files and folder inside the selected directory
+                -cd command used to change the directory
+                -mkdir command used to create a new folder
+                -sudo command allows us to make changes as a admin
+                -vi command used to open a editor using vim text editor
+
+## *VIM*
+         Vim is basically a text editor that allows us to write and edit text.It has three modes                   
+                -Command mode
+                -Insert mode 
+                -Visual mode
+          
+        Vim editor in default will be in command mode.All the vim commands are given while in       command mode.for example :w is used to save,:q is used to quit,y is used to copy,p is used to paste,u is used to undo,ctrl+r is used to redo.
+
+        Insert mode allows us to type and edit text in the file.
+
+        Visual mode allows us to select select the text which are present in the file. 
+        
+                

@@ -1,0 +1,28 @@
+#*Day3*
+
+##*Introduction*
+              Day 3 of internship was exciting as expected even though we had just one session we learned many new stuffs and it was like retrival of ideas which remained dormant in back of my mind.
+
+##*Words*
+       we learned about words very briefly and how it conveys an unique idea which are formed by the past observations and learning process.
+
+##*Problem solving*
+        we continued todays session again with problem solving.we had another brief session on how to solve problems. we got to know when to confirm that our problem is resolved. they are listed below                    
+                          - when problem is resolved
+                          - when all the constraints are met
+                          - when the solution is formalised
+
+ To solve a problem first thing is to understand the nature of the problem and to find a possible way to approach the problem.the next thing would be like finding out all the constraints of the problem and the next task will be like find all the possible operations.next task is to arranging all the possible operations to form a solution.we have make sure that solution is formalised.
+
+      The first task we were given is to solve a puzzle as a team.the puzzle is like to move a bar from right to left but with certain rules.we as a team tried to find out all the constraints present in the puzzle after listing out all the constraints we tried to list all the possible operations and we eliminated all the operations which would get failed.we initially just tried to concentrate on moving the bars right to left we failed to bother about moving the bars left to right.the presense of alarm suppressor on both ends trigerred an idea in our minds.the idea was like why not to move bars from left to right once we moved a bar back from left to right with in the given given rules we got our solution formalised and we resolved this problem in matter of time and we were the first team to resolve this problem
+
+this puzzle was really fun and it really helped me to retrieve my problem solving skill which was staying dormant in back of my mind.
+
+then we had some brief lecture on different classes of problem which are as follows 
+            - Scalablilty problem
+            - Resource comnstraint problem
+            - Domain problem
+
+Even though i didnt get proper clarity on definitions and explanations on different classes of problem it sounded very familar and i believe i have some broad idea on that.even though the theoretical explanations are very alien to me but i believe i do have and follow those practically. 
+
+The next task given to us to solve a puzzle. the puzzle is about a blue print of a city which has seven bridges connecting different pieces of land .we were told to find the path of person who decidedto cross all the bridges but only once .we tried to find the solution for more than an hour but we couldnt figure it out.but one of the guy in internship found that this puzzle could not be resolved by referring internet.so we tried to figure out the reason  why the puzzle cant be resolved but we couldnt find it.MISSION FAILED
